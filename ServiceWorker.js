@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-SCity_v3-0.1";
 const contentToCache = [
     "Build/SCityV3_WebDeploy.loader.js",
-    "Build/SCityV3_WebDeploy.framework.js.gz",
-    "Build/SCityV3_WebDeploy.data.gz",
-    "Build/SCityV3_WebDeploy.wasm.gz",
+    "Build/SCityV3_WebDeploy.framework.js",
+    "Build/SCityV3_WebDeploy.data",
+    "Build/SCityV3_WebDeploy.wasm",
     "TemplateData/style.css"
 
 ];
